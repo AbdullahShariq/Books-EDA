@@ -61,17 +61,32 @@ This project explores and visualizes key aspects of the book market, including:
 
 ### 🔹 Sample Visuals
 
-![Top Authors](screenshots/top_authors.png)  
-*Top authors based on user ratings*
+![Publishing Year Distribution](screenshots/distribution_publishing_year.png)  
+*Distribution of books published by year*
 
-![Genre Distribution](screenshots/genre_distribution.png)  
-*Most common book genres in the dataset*
+![Books per Genre](screenshots/No_of_books_each_genre.png)  
+*Number of books across each genre*
 
-![Yearly Publication](screenshots/yearly_publication_trend.png)  
-*Number of books published each year*
+![Ratings Count by Genre](screenshots/books_rating_count_each_genre.png)  
+*Book ratings count across different genres*
 
-![Price vs Rating](screenshots/price_vs_rating.png)  
-*Relationship between book prices and user ratings*
+![Price vs Units Sold](screenshots/sales_price_vs_unit_sold.png)  
+*Relationship between sale price and units sold*
+
+![Language Distribution](screenshots/language_distribution.png)  
+*Distribution of books by language*
+
+![Average Rating vs Rating Count](screenshots/book_avg_rating_vs_book_ratings_count.png)  
+*Relationship between book average rating and number of ratings*
+
+![Total Gross Sales by Author](screenshots/total_gross_sale_of_each_author.png)  
+*Total gross sales of each author*
+
+![Units Sold by Author Rating](screenshots/units_sold_for_each_author_rating.png)  
+*Units sold based on author rating*
+
+![Units Sold Over Years](screenshots/total_units_sold_over_years.png)  
+*Total units sold from year to year*
 
 ---
 
