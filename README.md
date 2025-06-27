@@ -94,10 +94,10 @@ This project explores and visualizes key aspects of the book market, including:
 
 ```bash
 # Clone the repository
-git clone https://github.com/AbdullahShariq/Books-Sales-Ratings-EDA.git
+git clone https://github.com/AbdullahShariq/Books-EDA.git
 
 # Navigate to the project directory
-cd Books-Sales-Ratings-EDA
+cd Books-EDA
 
 # Launch the Jupyter Notebook
 jupyter notebook "Books Sales and Ratings Analysis.ipynb"
